@@ -1,0 +1,13 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+table.row {
+  background-color: #cbcbcb !important;
+}
+
+table {
+  margin: 0 auto !important;
+  max-width: 600px !important;
+}
